@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gai:home|Door43 (gai)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gai|d43-gai repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gai/archive/master.zip|d43-gai.zip]]
+
+**Recent Changes**
+{{changes>ns = gai}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gai|Ethnologue data]]
+
